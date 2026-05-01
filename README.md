@@ -48,7 +48,7 @@ It includes:
 Friction introduces additional resistance to flow, reducing the effective rise height and modifying the transient dynamics.
 
 <p align="center">
-  <img src="corr effect.png" width="60%">
+  <img src="Corr effect.png" width="60%">
 </p>
 
 
@@ -69,6 +69,7 @@ The interplay between viscous dissipation and interfacial modifications leads to
   <img src="trans fig.png" width="60%">
 </p>
 ---
+
 ### Overview
 
 <p align="center">
