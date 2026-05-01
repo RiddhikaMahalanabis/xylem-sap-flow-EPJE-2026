@@ -24,7 +24,7 @@ together influencing the height and dynamics of sap ascent.
 The study provides a physically motivated framework to understand deviations from classical capillary rise models in biologically relevant systems.
 
 <p align="center">
-  <img src="figures/fig1.eps" width="60%">
+  <img src="fig1.eps" width="60%">
 </p>
 
 ---
