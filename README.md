@@ -48,18 +48,9 @@ It includes:
 Friction introduces additional resistance to flow, reducing the effective rise height and modifying the transient dynamics.
 
 <p align="center">
-  <img src="figures/friction_effect.png" width="60%">
+  <img src="corr effect.png" width="60%">
 </p>
 
----
-
-### Effect of Charged Species
-
-Charged species near the conduit walls contribute to interfacial energy, leading to corrections in the effective driving force.
-
-<p align="center">
-  <img src="figures/charged_species_effect.png" width="60%">
-</p>
 
 ---
 
@@ -67,9 +58,22 @@ Charged species near the conduit walls contribute to interfacial energy, leading
 
 The interplay between viscous dissipation and interfacial modifications leads to nontrivial deviations from classical predictions.
 
-
+<p align="center">
+  <img src="regimes.png" width="60%">
+</p>
 
 ---
+### Effect of transpiration pull
+
+<p align="center">
+  <img src="trans fig.png" width="60%">
+</p>
+---
+### Overview
+
+<p align="center">
+  <img src="comparison.png" width="60%">
+</p>
 
 ##  Notebooks
 
