@@ -63,11 +63,13 @@ The interplay between viscous dissipation and interfacial modifications leads to
 </p>
 
 ---
+
 ### Effect of transpiration pull
 
 <p align="center">
   <img src="trans fig.png" width="60%">
 </p>
+
 ---
 
 ### Overview
