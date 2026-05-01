@@ -78,7 +78,7 @@ The interplay between viscous dissipation and interfacial modifications leads to
   <img src="comparison.png" width="60%">
 </p>
 
-##  Notebooks
+##  Notebooks (TBA)
 
 The repository is organized into a small set of notebooks, each focusing on a specific aspect of the physics:
 
@@ -105,9 +105,10 @@ The repository is organized into a small set of notebooks, each focusing on a sp
 
 The results highlight that xylem sap ascent cannot always be captured by classical capillary rise alone.
 
-* **Friction** introduces dissipative corrections that slow down and limit ascent
-* **Charged species** modify interfacial energy and effective driving forces
-* Their **combined effect** leads to quantitatively and qualitatively different behavior
+* Friction introduces dissipative corrections that slow down the ascent of sap nonlinearly
+* Charged species in the groundwater modify interfacial energy and effective driving forces
+* Their combined effect leads to quantitatively and qualitatively different behavior
+* The corrugations present inside the xylem help in minimizing oscillations due to transpiration pull
 
 These findings are relevant for understanding water transport in realistic plant conduits, where both effects are expected to coexist.
 
@@ -115,8 +116,7 @@ These findings are relevant for understanding water transport in realistic plant
 
 ## Notes
 
-* The code is intentionally kept minimal and transparent
-* The goal is to provide a conceptual and reproducible view of the model
+* The code is intentionally kept minimal to provide a conceptual and reproducible view of the model
 * For full theoretical details, please refer to the published paper
 
 ---
