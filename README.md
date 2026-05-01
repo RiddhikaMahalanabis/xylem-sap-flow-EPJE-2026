@@ -123,13 +123,15 @@ These findings are relevant for understanding water transport in realistic plant
 
 ## Citation
 
-If you use this work, please cite:
+If this work is useful for you, please cite:
 
 *Effect of conduit friction and presence of charged species on rise of xylem sap*
 Eur. Phys. J. E (2026) 49:6
 
 [DOI : 10.1140/epje/s10189-025-00543-x](https://doi.org/10.1140/epje/s10189-025-00543-x)
 
+
+```
 @article{mahalanabis2026effect,
   title={Effect of conduit friction and presence of charged species on rise of xylem sap},
   author={Mahalanabis, Riddhika and Ashok, Balakrishnan},
@@ -140,5 +142,3 @@ Eur. Phys. J. E (2026) 49:6
   year={2026},
   publisher={Springer}
 }
-
-
